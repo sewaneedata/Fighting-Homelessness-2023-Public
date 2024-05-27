@@ -41,7 +41,7 @@ To view the insights about the PVA and PIT and the findings, follow these steps:
 
 1. Clone or download the repository to your local machine by running the following command on your terminal:
 
-```git clone https://github.com/sewaneedata/Fighting-Homelessness-2023```
+```git clone https://github.com/sewaneedata/Fighting-Homelessness-2023-Public```
 
 2. Navigate to the `src` directory in your terminal.
 3. Run the following command to start the dashboard:
